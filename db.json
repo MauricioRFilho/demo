@@ -1,4 +1,5 @@
-{ "Videos":[
+{"Videos": 
+    [
         {
             "id": 1,
             "titulo": "Hogwarts Legacy Iniciando no mundo de Harry Potter #'1",
@@ -115,3 +116,4 @@
         }
     ]
 }
+
